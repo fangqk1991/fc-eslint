@@ -1,6 +1,6 @@
 {
   "name": "@fangcha/eslint",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "./src/index.js",
   "description": "Webpack configs",
   "repository": "https://github.com/fangqk1991/fc-eslint.git",
@@ -8,6 +8,9 @@
     "eslint"
   ],
   "author": "fang <me@fangqk.com>",
+  "files": [
+    "src/*"
+  ],
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^2.19.0",
     "@typescript-eslint/parser": "^2.19.0",
